@@ -1,6 +1,17 @@
 <footer class="footer">
     <div class="container">
-        {% include social-icons.html %}
-        <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">This blog</span> is <a href="{{site.github.repository_url}}">open sourced</a> and licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+        <section class="social">
+            {% if site.social-links.facebook %}<a href="http://facebook.com/{{ site.social-links.facebook }}" class="icon-social-facebook"></a>{% endif %}
+            {% if site.social-links.twitter %}<a href="http://twitter.com/{{ site.social-links.twitter }}" class="icon-social-twitter"></a>{% endif %}
+            {% if site.social-links.linkedin %}<a href="http://linkedin.com/in/{{ site.social-links.linkedin }}" class="icon-social-linkedin"></a>{% endif %}
+            {% if site.social-links.angellist %}<a href="http://angel.co/{{ site.social-links.angellist }}" class="icon-social-angellist"></a>{% endif %}
+            {% if site.social-links.github %}<a href="http://github.com/{{ site.social-links.github }}" class="icon-social-github"></a>{% endif %}
+            {% if site.social-links.stackoverflow %}<a href="http://stackoverflow.com/{{ site.social-links.stackoverflow }}" class="icon-social-stackoverflow"></a>{% endif %}
+            {% if site.social-links.rss %}<a href="{{ site.github.url }}/feed.xml" class="icon-social-rss"></a>{% endif %}
+            {% if site.social-links.email %}<a href="mailto:{{ site.social-links.email }}" class="icon-social-envelope"></a>{% endif %}
+        </section>
+        <div class="license-text">
+            <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">This blog</span> is <a href="{{site.github.repository_url}}">open sourced</a> and licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+        </div>
     </div>
 </footer>

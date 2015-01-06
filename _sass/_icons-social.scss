@@ -1,0 +1,56 @@
+@font-face {
+  font-family: 'icons-social';
+  src:url('../fonts/icons-social.eot?9cldjv');
+  src:url('../fonts/icons-social.eot?#iefix9cldjv') format('embedded-opentype'),
+  url('../fonts/icons-social.woff?9cldjv') format('woff'),
+  url('../fonts/icons-social.ttf?9cldjv') format('truetype'),
+  url('../fonts/icons-social.svg?9cldjv#icons-social') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-social-"], [class*=" icon-social-"] {
+  font-family: 'icons-social';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-social-twitter:before {
+  content: "\f099";
+}
+
+.icon-social-facebook:before {
+  content: "\f09a";
+}
+
+.icon-social-rss:before {
+  content: "\f09e";
+}
+
+.icon-social-envelope:before {
+  content: "\f0e0";
+}
+
+.icon-social-linkedin:before {
+  content: "\f0e1";
+}
+
+.icon-social-angellist:before {
+  content: "\f209";
+}
+
+.icon-social-github:before {
+  content: "\e600";
+}
+
+.icon-social-stackoverflow:before {
+  content: "\e601";
+}

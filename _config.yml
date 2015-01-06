@@ -7,14 +7,11 @@ description: Entrepreneur, Leader, Developer.
 
 # Includes an icon in the footer for each username you enter
 social-links:
-  dribbble: 
   email: almog.baku@gmail.com
   facebook: AlmogBaku
-  flickr: 
   github: AlmogBaku
-  instagram: 
   linkedin: AlmogBaku
-  pinterest: 
+  angellist: AlmogBaku
   rss: true # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: AlmogBaku
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"

@@ -7,6 +7,7 @@
 @import "compass/reset";
 @import "highlight";
 @import "typography";
+@import "icons-social";
 
 html, body {
   height: 100%;
@@ -216,4 +217,23 @@ footer.footer {
   background: #e7e7e7;
   border-top: 1px solid #dddddd;
   padding: 1rem 0;
+  font-size: 1.3rem;
+  .social {
+    margin-bottom: 0.5rem;
+    a {
+      font-size: 1.6rem;
+      background: #445588;
+      color: white;
+      @include box-sizing(border-box);
+      height: 2.7rem;
+      width: 2.7rem;
+      text-align: center;
+      padding-top: 0.55rem;
+      @include border-radius(50%);
+      display: inline-block;
+      &:hover {
+        background: #56689E;
+      }
+    }
+  }
 }

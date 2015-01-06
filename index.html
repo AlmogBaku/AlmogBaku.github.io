@@ -1,0 +1,29 @@
+---
+layout: homepage
+---
+
+<div class="posts">
+  <section class="articles-list">
+    {% for post in site.posts reversed %}
+      <article class="post">
+        <hgroup>
+          <h2><a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a></h2>
+          <span class="reading-time">
+            {% assign time = page.content | strip_html | number_of_words | divided_by: 250 %}
+            {% if time <= 1 %}<strong><</strong> 1 min{% else %}{{time}} min{% endif %}
+            to read.
+          </span>
+        </hgroup>
+        <div class="entry">
+          {% if post.content contains '<!--more-->' %}
+            {{ post.content | split:'<!--more-->' | first }}
+          {% else %}
+            {{ post.content | strip_html | truncatewords: 70 }}
+          {% endif %}
+        </div>
+
+        <a href="{{ site.github.url }}{{ post.url }}" class="read-more">Read More</a>
+      </article>
+    {% endfor %}
+  </section>
+</div>

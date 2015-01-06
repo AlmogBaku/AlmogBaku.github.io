@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<header>
+  {% include nav.html %}
+  <hgroup class="logo">
+    {% include logo.html %}
+  </hgroup>
+  <div class="bg"></div>
+</header>
+
+<div class="container">
+  <article class="post">
+    <h1>{{ page.title }}</h1>
+
+    <div class="entry">
+      {{ content }}
+    </div>
+
+    <footer>
+      <span class="date">
+        Written on {{ page.date | date: "%B %e, %Y" }}
+      </span>
+      <div>
+        <!-- AddToAny BEGIN -->
+        <a class="a2a_dd" href="https://www.addtoany.com/share_save"><img src="//static.addtoany.com/buttons/share_save_106_16.png" width="106" height="16" border="0" alt="Share"/></a>
+        <script type="text/javascript">
+          var a2a_config = a2a_config || {};
+          a2a_config.prioritize = ["facebook", "twitter", "linkedin", "google_plus", "buffer", "hacker_news", "reddit", "whatsapp", "email"];
+        </script>
+        <script type="text/javascript" src="//static.addtoany.com/menu/page.js"></script>
+        <!-- AddToAny END -->
+        <a class="fork-page" href="{{site.github.repository_url}}/tree/master/{{page.path}}">(Fork this page)</a>
+      </div>
+    </footer>
+
+    {% include disqus.html disqus_identifier=page.disqus_identifier %}
+  </article>
+</div>
+

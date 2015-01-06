@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<header class="home">
+    {% include nav.html %}
+    <hgroup class="logo">
+        {% include logo.html %}
+        <h2>{{ site.description }}</h2>
+    </hgroup>
+    <div class="bg"></div>
+</header>
+
+<div class="container">
+    {{content}}
+</div>

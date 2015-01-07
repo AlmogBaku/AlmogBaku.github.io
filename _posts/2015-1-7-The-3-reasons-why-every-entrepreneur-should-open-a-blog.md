@@ -35,7 +35,7 @@ bests; you just need to convince them(and almost everybody) that you're the best
 brand new product.
 1. *Share your thoughts* - dah?? :P
 
-![Your brand]({{ site.url }}/images/nike-you-brand.jpg)
+![Your brand]({{ site.github.url }}/images/nike-you-brand.jpg)
 
 #### 3. Updates about your progress
 

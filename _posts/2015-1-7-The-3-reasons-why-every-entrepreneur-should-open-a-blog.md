@@ -12,7 +12,7 @@ Today I'll try to explain you **why I opened this blog** and why you should do t
 ## Why entrepreneurs needs a blog?
 
 #### 1. No body knows you
-I known for a long time, that blog is something that I **NEED** to _just do_.. But, it actually really seeped into my
+I known for a long time that blog is something that I **NEED** to _just do_. But, it actually really seeped into my
 mind after my friends @LiorKesos and @SagiShrieber told me that. Sagi just said to me something really powerful:
 
 > " You can be really talented, and people that knows you probably know that...<br />

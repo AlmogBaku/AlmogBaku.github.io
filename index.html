@@ -10,7 +10,13 @@ layout: homepage
           <h2><a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a></h2>
           <span class="reading-time">
             {% assign time = page.content | strip_html | number_of_words | divided_by: 200 %}
-            {% if time < 1 %}<strong><</strong>{% endif %}{{time}} min
+            {% if time < 1 %}
+              <strong><</strong> 1 min
+            {% else if time == 1 %}
+              1 min
+            {% else %}
+              {{time}} min
+            {% endif %}
             to read.
           </span>
         </hgroup>

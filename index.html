@@ -22,7 +22,7 @@ layout: homepage
         </hgroup>
         <div class="entry">
           {% if post.content contains '<!--more-->' %}
-            {{ post.content | split:'<!--more-->' | first }}
+            {{ post.content | split:'<!--more-->' | first | strip_html }}
           {% else %}
             {{ post.content | strip_html | truncatewords: 70 }}
           {% endif %}

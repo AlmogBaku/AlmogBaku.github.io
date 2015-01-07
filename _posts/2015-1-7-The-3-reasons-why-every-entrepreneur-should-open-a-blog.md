@@ -22,6 +22,8 @@ mind after my friends @liorkesos and Sagi Shreiber told me that. Sagi just said 
 He's right. Also blog can help you to fundraise, and to let the investors to know you better. Think about it like a "cheat"
 to get an advantage from all the other entrepreneurs that nobody knows.
 
+![On the internet nobody knows you're a dog](http://i0.kym-cdn.com/photos/images/facebook/000/427/566/b67.jpeg)
+
 #### 2. Build your brand
 As entrepreneur, your probably know that **your startup = you**.
 Branding yourself as "a person who know what he's talking about" could help you in every almost aspects:

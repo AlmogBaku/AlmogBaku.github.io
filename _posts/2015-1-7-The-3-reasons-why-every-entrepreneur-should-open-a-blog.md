@@ -22,7 +22,7 @@ mind after my friends @liorkesos and Sagi Shreiber told me that. Sagi just said 
 He's right. Also blog can help you to fundraise, and to let the investors to know you better. Think about it like a "cheat"
 to get an advantage from all the other entrepreneurs that nobody knows.
 
-![On the internet nobody knows you're a dog](http://i0.kym-cdn.com/photos/images/facebook/000/427/566/b67.jpeg)
+<img alt="On the internet nobody knows you're a dog" src="http://i0.kym-cdn.com/photos/images/facebook/000/427/566/b67.jpeg" style="max-height: 400px;" />
 
 #### 2. Build your brand
 As entrepreneur, your probably know that **your startup = you**.

@@ -8,6 +8,7 @@
 @import "highlight";
 @import "typography";
 @import "icons-social";
+@import "special-pages";
 
 html, body {
   height: 100%;
@@ -37,9 +38,11 @@ header {
   position: relative;
   overflow: hidden;
   > .bg {
-    @include background(image-url("hp-covers/3.jpg"));
+    @include background(image-url("hp-covers/4.jpg"));
     @include filter(blur(0.45rem));
     @include transform(scale(1.1));
+    background-position: 50% 50%;
+    background-attachment: fixed;
     background-size: cover;
     width: 100%;
     height: 100%;
@@ -98,7 +101,7 @@ header {
   }
 
   &.home {
-    height: 75%;
+    height: 70%;
     @media screen and (max-width: 500px) {
       height: 60%;
     }

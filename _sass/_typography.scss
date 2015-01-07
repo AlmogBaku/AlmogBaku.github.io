@@ -78,7 +78,17 @@ img {
 blockquote {
     border-left: 3px solid;
     padding-left: 1.5rem;
-    font-size: 1.4em;
+    font-size: 1.3em;
     font-family: Georgia,serif;
     font-style: italic;
+    cite {
+        display: block;
+        text-align: right;
+        font-size: 0.6em;
+        font-family: serif;
+        font-style: normal;
+        &:before {
+           content: "-- ";
+        }
+    }
 }

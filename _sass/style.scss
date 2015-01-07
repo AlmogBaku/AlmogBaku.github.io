@@ -121,14 +121,13 @@ nav {
     li {
       font-size: 2rem;
       margin-right: 2rem;
-      font-weight: bold;
       padding-right: 2rem;
       color: #ffffff;
       border-right: 2px solid;
       a {
         color: inherit;
         &:hover {
-          color: #D4DDFF;
+          color: #303030;
         }
       }
       &:last-child {

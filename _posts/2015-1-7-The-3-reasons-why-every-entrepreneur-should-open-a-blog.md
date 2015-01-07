@@ -7,6 +7,8 @@ title: The 3 reasons why every entrepreneur should open a blog
 Hey guys,<br />
 This is my first blog post! woohoo~! so I'll try to do my best, and keep this blog maintained.
 
+Today I'll try to explain you **why I opened this blog** and why you should do the same.
+
 ## Why entrepreneurs needs a blog?
 
 #### 1. No body knows you
@@ -28,7 +30,8 @@ Branding yourself as "a person who know what he's talking about" could help you 
 1. **Hiring** - your blog can convince candidates that impressed by your blog to apply. Everybody want to learn from the
 bests; you just need to convince them(and almost everybody) that you're the best.
 1. *Marketing* - as I said before: **your startup=you**, people who'll read your blog will probably want to try your
-brand new product. :-)
+brand new product.
+1. *Share your thoughts* - dah?? :P
 
 ![Your brand]({{ site.url }}/images/nike-you-brand.jpg)
 

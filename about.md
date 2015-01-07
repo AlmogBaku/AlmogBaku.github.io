@@ -25,6 +25,12 @@ Very fast I found myself start to learn advanced PHP, CSS, JavaScript, and contr
  - At age 19 I lectured at the first time in a [professional developers conference](http://www.slideshare.net/AlmogBaku/drupal-javascript-14718275).
  - At age 20 I founded my first [hi-tech startup](http://www.SocialBelong.com] - which last 2 years, acquired 18 paying costumers, 5,618 users, and managed 6 employees.
 
+### Highlights
+
+ - Co-Founder of [ChiefAngel](http://www.ChiefAngel.com)
+ - Co-Founder and CEO of [Social**Belong** (formerly GoDisco)](http://www.SocialBelong.com)
+ - Creator of some popular [open-source projects](http://github.com/AlmogBaku)
+
 ### Contact me
 
 [{{ site.social-links.email }}](mailto:{{ site.social-links.email }})

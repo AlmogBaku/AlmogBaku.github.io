@@ -15,14 +15,15 @@ h1 {
 }
 
 h2 {
-    font-size: 2.4rem;
+    font-size: 3rem;
 }
 
 h3 {
-    font-size: 2rem;
+    font-size: 2.6rem;
 }
 
 h4 {
+    font-size: 2rem;
     color: #464646;
 }
 h4 {
@@ -88,7 +89,10 @@ blockquote {
         font-family: serif;
         font-style: normal;
         &:before {
-           content: "-- ";
+           content: "— ";
         }
     }
+}
+mark {
+    background: #ffe77c;
 }

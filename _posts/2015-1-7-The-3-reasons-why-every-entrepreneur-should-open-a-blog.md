@@ -20,7 +20,7 @@ mind after my friends, @LiorKesos and @SagiShrieber, convinced me to do so right
 > <cite>Sagi Shrieber</cite>
 
 Also, blog can help you to fundraise, and to let investors the opportunity to know you better. Think about it like a "cheat"
-to get an advantage from all the other entrepreneurs that nobody knows.
+to gain an advantage from all the other entrepreneurs that nobody knows.
 
 <img alt="On the internet nobody knows you're a dog" src="http://i0.kym-cdn.com/photos/images/facebook/000/427/566/b67.jpeg" style="max-height: 400px;" />
 

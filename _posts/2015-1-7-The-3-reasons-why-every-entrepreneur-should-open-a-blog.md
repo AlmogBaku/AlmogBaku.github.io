@@ -28,8 +28,8 @@ to gain an advantage from all the other entrepreneurs that nobody knows.
 As entrepreneur, your probably know that **your startup = you**.
 Branding yourself as "a person who know what he's talking about" could help you in every almost aspects:
 
-1. **Fundraising** - "well known" entrepreneur is just sexier than other! everybody want to invest on the next raising star.
-1. **Hiring** - your blog can convince candidates that impressed by your blog to apply. Everybody want to learn from the
+1. **Fundraising** - "well known" entrepreneur is just sexier than the others! Everybody want to bet on the next raising star.
+1. **Hiring** - your blog can convince good candidates that impressed by your blog to apply and join your company. Everybody want to learn from the
 bests; you just need to convince them(and almost everybody) that you're the best.
 1. *Marketing* - as I said before: **your startup=you**, people who'll read your blog will probably want to try your
 brand new product.

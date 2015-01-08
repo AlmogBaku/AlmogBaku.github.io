@@ -13,7 +13,7 @@ Today I'll try to explain you **why I opened this blog** and why you should do t
 
 #### 1. No body knows you
 I known for a long time that blog is something that I _**need** to do_. But, it actually really seeped into my
-mind after my friends @LiorKesos and @SagiShrieber convinced me to do that now. Sagi just said to me something really powerful:
+mind after my friends, @LiorKesos and @SagiShrieber, convinced me to do so right away; Sagi told to me something really powerful:
 
 > " You can be really talented, and people that knows you probably know that...<br />
 > The thing is- you don't work wish most of them. "

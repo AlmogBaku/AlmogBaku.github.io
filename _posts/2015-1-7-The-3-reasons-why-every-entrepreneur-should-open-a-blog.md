@@ -39,11 +39,11 @@ brand new product.
 
 #### 3. Updates about your progress
 
-Blog will helps you to create a group of followers. Followers could be other entrepreneurs, investors, users, developers,
+Blog is a great tool to help to create a group of followers/fans of yours. Followers could be other entrepreneurs, investors, users, developers,
 and even your ~~rich~~ uncle.
 
 Updating your followers with your progress is actually a good thing: it's telling them you learn from your progress,
-and helps them to **connect** with you and your project.
+and helps them to **connect** with you, your project and your product by making them _feel_ like part of your journey.
 
 <br />
 <br />

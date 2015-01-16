@@ -10,7 +10,7 @@ Today I'll explain you **why I opened this blog**, and why every young entrepren
 
 ## Why entrepreneurs needs a blog?
 
-#### 1. No body knows you
+#### 1. Nobody knows you
 I known for a long time that blog is something that I _**need** to do_. But, it actually really seeped into my mind after my friends, @LiorKesos and @SagiShrieber, convinced me to do so; Sagi told to me something really powerful:
 
 > " You might be very talented, and people who worked with you know that as well. But its the rest of the world who has no clue who you are and what you're worth. "

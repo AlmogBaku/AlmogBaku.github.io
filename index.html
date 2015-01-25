@@ -12,7 +12,7 @@ layout: homepage
             {% assign time = post.content | strip_html | number_of_words | divided_by: 200 | round %}
             {% if time < 1 %}
               <strong><</strong> 1 min
-            {% else if time == 1 %}
+            {% elsif time == 1 %}
               1 min
             {% else %}
               {{time}} min

@@ -1,11 +1,11 @@
 ---
-published: false
+published: true
 layout: post
 title: Thoughts about introductions strategies for fundraising
 ---
 
 Raising funds is one of the toughest job you need to do as a startup founder, specially on the beginning of your journey. <br />
-On this post. I focused on the _approach_ part of the process, and investigated one of the worst mistakes I made at
+On this post, I focused on the _approach_ part of the process, and investigated one of the worst mistakes I made at
 GoDisco- giving up on **introductions**.
 
 We all know how efficient a good intro can be, and how we can benefit from it. Actually that's the exact reason I,
@@ -81,7 +81,7 @@ your goal, and to get the relevant introductions.
 #### [Click here to try Actionable connections](http://actionable-connections.almogbaku.com)
 <br />
 &lowast; This tool is not saving any data on any server, and all the processing is actually made by your browser, so your privacy is safe :)
-&lowast; I've published the **"Actionable connections"** tool as [open-source](), so feel free to fork it or using it on add integrations. <br />
+&lowast; I've published the **"Actionable connections"** tool as [open-source](https://github.com/AlmogBaku/actionable-connections), so feel free to fork it or using it on add integrations. <br />
 
 ## Keep track on your process
 I highly recommend you to track your progress by documenting **EVERY SINGLE INTERACTION** (either with the connections

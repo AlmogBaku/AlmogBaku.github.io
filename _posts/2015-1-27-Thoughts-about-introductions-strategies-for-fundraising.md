@@ -63,7 +63,7 @@ Then, only after you list all the possible connections you'll need from specific
 You can export your facebook/linkedin contacts list to excel, then just start to "filtering" them into the friendship
 level(as explained above), and realize the map of the connections.
 
-### The easy way -  My tool: [Actionable connections](http://actionable-connections.chiefangel.com)
+### The easy way -  My tool: [Actionable connections](http://actionable-connections.almogbaku.com)
 After I started to write this post, I realize that its quite difficult and very consuming to apply both of the strategies
 and to organize your contacts into an actionable plan. So I decided to build a simple tool that can helps you to organize
 your LinkedIn contacts into an actionable strategy.
@@ -78,7 +78,7 @@ your goal, and to get the relevant introductions.
 <img src="{{site.github.url}}/images/actionable-connections-report.png"
    alt="Actionable connections" style="border:2px solid;padding: 1rem;" />
 
-#### [Click here to try Actionable connections](http://actionable-connections.chiefangel.com)
+#### [Click here to try Actionable connections](http://actionable-connections.almogbaku.com)
 <br />
 &lowast; This tool is not saving any data on any server, and all the processing is actually made by your browser, so your privacy is safe :)
 &lowast; I've published the **"Actionable connections"** tool as [open-source](), so feel free to fork it or using it on add integrations. <br />

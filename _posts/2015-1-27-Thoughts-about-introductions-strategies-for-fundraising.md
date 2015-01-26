@@ -80,7 +80,7 @@ your goal, and to get the relevant introductions.
 
 #### [Click here to try Actionable connections](http://actionable-connections.almogbaku.com)
 <br />
-&lowast; This tool is not saving any data on any server, and all the processing is actually made by your browser, so your privacy is safe :)
+&lowast; This tool is not saving any data on any server, and all the processing is actually made by your browser, so your privacy is safe :) <br />
 &lowast; I've published the **"Actionable connections"** tool as [open-source](https://github.com/AlmogBaku/actionable-connections), so feel free to fork it or using it on add integrations. <br />
 
 ## Keep track on your process

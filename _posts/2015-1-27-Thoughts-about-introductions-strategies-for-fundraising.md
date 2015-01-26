@@ -64,7 +64,7 @@ You can export your facebook/linkedin contacts list to excel, then just start to
 level(as explained above), and realize the map of the connections.
 
 ### The easy way -  My tool: [Actionable connections](http://actionable-connections.almogbaku.com)
-After I started to write this post, I realize that its quite difficult and very consuming to apply both of the strategies
+After I started to write this post, I realized that its quite difficult and very consuming to apply both of the strategies
 and to organize your contacts into an actionable plan. So I decided to build a simple tool that can helps you to organize
 your LinkedIn contacts into an actionable strategy.
 

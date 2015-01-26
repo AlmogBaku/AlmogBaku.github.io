@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: post
 title: Thoughts about introductions strategies for fundraising
 ---

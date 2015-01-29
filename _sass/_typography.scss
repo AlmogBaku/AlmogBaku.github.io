@@ -80,6 +80,7 @@ strong, b {
 
 img {
     max-width: 100%;
+    @include box-sizing(border-box);
 }
 blockquote {
     border-left: 3px solid;

@@ -14,4 +14,4 @@ different servers, ionic projects, etc.
 
 Here are the slides of my lecture:
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/46571972" width="100%" height="550" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/46571972" width="100%" height="550" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>

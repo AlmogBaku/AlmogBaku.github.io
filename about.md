@@ -8,7 +8,7 @@ permalink: /about/
 
 Hey there!
 My name is Almog Baku; I am an entrepreneur, leader, and developer with 9 years of experience. Expert in
-[AngularJS](https://angularjs.org) and in getting things done.
+[AngularJS](https://angularjs.org), [Symfony](https://symfony.com) and in getting things done.
 
 On this blog I'll write about entrepreneurship and development.
 
@@ -34,6 +34,7 @@ and of course- started to making money by using my skills.
 
 ### Highlights
 
+ - Co-Founder and CTO of [rimoto](http://www.rimoto.net)
  - Co-Founder of [ChiefAngel](http://www.ChiefAngel.com)
  - Co-Founder and CEO of [SocialBelong (formerly GoDisco)](http://www.SocialBelong.com)
  - Creator of some popular [open-source projects](http://github.com/AlmogBaku)

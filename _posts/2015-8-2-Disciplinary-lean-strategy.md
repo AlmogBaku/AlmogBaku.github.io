@@ -4,24 +4,24 @@ layout: post
 title: Disciplinary lean strategy
 ---
 As you may know, the most famous use-case for lean methodology apply for the _product_ lifecycle-
-build a minimum viable product(MVP) > Measure > Learn > Build an enhanced MVP. <br />
 You build a *product*, measure the *product* usage, learn from the *product* data, and build again.
 
 Although, I believe this methodology can be applied for other disciplines of the company, and not only for product development,
-you just need to build the "Build > Measure > Learn" strategy for each discipline of the company.
-In this way, I believe we can align the whole company for the biggest goal of the initiative, and to prove/disprove our
+you just need to use the "Build > Measure > Learn" loop for each discipline of the company.
+In this way, I believe you can align the whole company towards **the most important goals** of the initiative, and to establish/disapprove your
 assumptions much faster (and wast less time and money).
 
 <img src="http://www.cu-tcdc.com/wp-content/uploads/2014/07/Diagrame-031.jpg" alt="Build Measure Learn" style="max-height: 400px;" /><br />
 
  
 ## Company lean strategy
-One of the most important things you *MUST* do, is building a Company-Level strategy. In my opinion- it'll be wise to plan a
-lean strategy to your whole company and drip down its parts to all the other departments.
+One of the most important things you *MUST* do, is to build a Company-Level strategy. In my opinion- it'll be wise to plan a
+lean strategy for your whole company, and drip it from [top to down](https://en.wikipedia.org/wiki/Top-down_and_bottom-up_design)
+to all the other departments in the company that will be involved in this initiative(or experiment in the lean word).
 
-The big idea is to set a top-level lean cycle for the initiative, the from top to down to drip the goals, in order to achieve
-an accurate solution, and not waste time in the sub-departments of the company on useless tasks for this stage(for example:
-building too complicated product as an MVP)
+The idea is to focus the team on the goals, in order to achieve the most accurate solution, without wasting time in the
+on useless activities for this stage(for example: building too complicated product as an MVP) which means: building the MVP
+of the whole initiative(including every related aspect, from hr, toward r&d and even BizDev)
 
 ### Build
 You need to ask yourself what are the hypothesis you trying to answer in the company level-

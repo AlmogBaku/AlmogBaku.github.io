@@ -42,7 +42,7 @@ way you can keep your organization very focused on the target and allow your tea
 
 I'll go briefly over the different disciplines of the company in order to demonstrate:
 
-Let's say our high-level vision is to *help travelers plan a better trip for their vocation*. Our business objectives for the
+Let's say our high-level vision is to **help travelers plan a better trip for their vocation**. Our business objectives for the
 next milestone are:
 
 1. Help the traveler predict his expenses

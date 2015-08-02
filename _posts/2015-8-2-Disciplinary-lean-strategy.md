@@ -27,21 +27,20 @@ of the whole initiative(including every related aspect, from hr, toward r&d and 
 You need to ask yourself what are the hypothesis you trying to answer in the company level-
 
 1. What is the vision?
-1. Who you trying to help?
+1. Who are you trying to help?
 1. Which kind of products you can build in order to solve them?
-1. Define the top-level business goals.
+1. What are the business goals?
 
 ### Measure
-Plan your KPIs, be on track to understand what kind of achievements will serve you in order to accomplish the next company
-milestone(fundraising, growth, key hiring, etc).
+Plan your KPIs, be on track and have a clear measurements in order to understand what kind of achievements will serve you
+in order to accomplish the next company milestone(fundraising, growth, key hiring, etc).
 
 ### Dripping down
-The next step is to build sub-strategy for each department, this strategy should answer the top-level business goals which
-we defined above.
-It's really important to keep the company goals driven when building a startup company, this way you can keep your organization
-very focused on the target and allow your team to achieve your goals in much more efficient and fast way.
+The next step is to build a sub-strategy for each department, this strategy should answer the top-level business goals which
+we defined above. It's really important to track the company goals driven when building a startup company. In this
+way you can keep your organization very focused on the target and allow your team to achieve your goals in much more efficient and fast way.
 
-I'll go briefly over the different disciplines of the companies in order to demonstrate:
+I'll go briefly over the different disciplines of the company in order to demonstrate:
 
 Let's say our high-level vision is to *help travelers plan a better trip for their vocation*. Our business objectives for the
 next milestone are:

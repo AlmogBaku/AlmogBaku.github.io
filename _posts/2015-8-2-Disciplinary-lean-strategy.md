@@ -3,14 +3,17 @@ published: true
 layout: post
 title: Disciplinary lean strategy
 ---
-The most famous use-case for lean methodology apply for the _product_ lifecycle:
+As you may know, the most famous use-case for lean methodology apply for the _product_ lifecycle-
+you build a *product*, measure the *product* usage, learn from the *product* data, and build again.
+
+Although, I believe this methodology can be applied for other disciplines of the company, and not only for product development,
+you just need to build the "Build > Measure > Learn" strategy for each discipline of the company.
+In this way, I believe we can align the whole company for the biggest goal of the initiative, and to prove/disprove our
+assumptions much faster (and wast less time and money).
 
 <img src="http://www.cu-tcdc.com/wp-content/uploads/2014/07/Diagrame-031.jpg" alt="Build Measure Learn" style="max-height: 400px;" /><br />
 Build a minimum viable product(MVP) > Measure > Learn > Build an enhanced MVP
 
-
-Although, I believe this methodology can be applied for other disciplines of the company, and not only for product development.
-You just need to build the "Build > Measure > Learn" strategy for each discipline:
  
 ## Company lean strategy
 One of the most important things you *MUST* do, is building a Company-Level strategy. In my opinion- it'll be wise to plan a

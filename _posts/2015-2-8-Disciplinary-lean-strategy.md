@@ -16,6 +16,10 @@ You just need to build the "Build > Measure > Learn" strategy for each disciplin
 One of the most important things you *MUST* do, is building a Company-Level strategy. In my opinion- it'll be wise to plan a
 lean strategy to your whole company and drip down its parts to all the other departments.
 
+The big idea is to set a top-level lean cycle for the initiative, the from top to down to drip the goals, in order to achieve
+an accurate solution, and not waste time in the sub-departments of the company on useless tasks for this stage(for example:
+building too complicated product as an MVP)
+
 ### Build
 You need to ask yourself what are the hypothesis you trying to answer in the company level-
 
@@ -79,7 +83,7 @@ in order to deliver our MVP:
 ## R&D strategy
 In order to accomplish the product and marketing definitions, we set our R&D goals:
 
-1. Build a demo application
+1. Build a *prototype* application
 1. Building landing page
 1. Building a measurement mechanism
 1. Hiring 1 developer

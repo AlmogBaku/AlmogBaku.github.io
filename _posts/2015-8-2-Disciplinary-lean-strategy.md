@@ -93,8 +93,11 @@ in order to deliver our MVP:
 1. Reasonable burning chart
 1. Delivering all the goals within 1 month
 
-## Company Learn
+## Company-Level Learning
 After the cycle of the milestone completed, we need to summarize all the high-level knowledge from the various departments,
-and decide about the next big goal.
-This is probably the most crucial stage- now you need to align all the departments and understand whether this initiative
-was successful, whether you need to pivot, or even kill the whole initiative.
+and decide about the next big goal. This is probably the most crucial stage- now you need to align all the departments
+and understand whether this initiative was successful, whether you need to pivot, or even kill the whole initiative.
+
+On this stage, every department should try and figure whether they met their assumptions and what does it means.
+E.g. if the BizDev dept. haven't established their assumptions, but the product dept. established there is a clear need
+for their product, the company should consider "pivoting" the business model.

@@ -5,7 +5,7 @@ title: Disciplinary lean strategy
 ---
 The most famous use-case for lean methodology apply for the _product_ lifecycle:
 
-<img src="http://www.cu-tcdc.com/wp-content/uploads/2014/07/Diagrame-031.jpg" alt="Build Measure Learn" style="max-height: 400px;" />
+<img src="http://www.cu-tcdc.com/wp-content/uploads/2014/07/Diagrame-031.jpg" alt="Build Measure Learn" style="max-height: 400px;" /><br />
 Build a minimum viable product(MVP) > Measure > Learn > Build an enhanced MVP
 
 

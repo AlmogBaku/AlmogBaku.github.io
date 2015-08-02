@@ -83,11 +83,9 @@ in order to deliver our MVP:
 1. Closed 1 deal
 
 ## R&D strategy
-In order to accomplish the product and marketing definitions, we set our R&D goals:
-
 1. Build a *prototype* application
-1. Building landing page
-1. Building a measurement mechanism
+1. Build a landing page
+1. Measure the user retention
 1. Hiring 1 developer
 
 ### Measure(KPIs)

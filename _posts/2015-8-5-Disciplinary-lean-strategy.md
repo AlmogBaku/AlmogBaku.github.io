@@ -1,5 +1,6 @@
 ---
 published: true
+draft: true
 layout: post
 title: Disciplinary lean strategy
 ---

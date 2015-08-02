@@ -36,7 +36,7 @@ and of course- started to making money by using my skills.
 
  - Co-Founder and CTO of [rimoto](http://www.rimoto.net)
  - Co-Founder of [ChiefAngel](http://www.ChiefAngel.com)
- - Co-Founder and CEO of [SocialBelong (formerly GoDisco)](http://www.SocialBelong.com)
+ - Co-Founder and CEO of SocialBelong (formerly GoDisco)
  - Creator of some popular [open-source projects](http://github.com/AlmogBaku)
 
 ### Contact me

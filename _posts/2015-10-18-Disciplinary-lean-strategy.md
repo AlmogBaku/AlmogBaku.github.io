@@ -98,3 +98,12 @@ order to know when is it a good time to reconsider these solutions.
 ### Hiring
 Can you see the pattern yet? when hiring talents- do quick campaigns to find out what is the best channel to hire talents.
 Is it offering great perks for referrals? is it by lecturing on professional events? or maybe using PR?
+
+## TL;DR
+It's really important to ask yourselves on every step and on every part of your process what are you trying to achieve
+and to validate if you are on the right way using KPIs that you defined in advance.
+
+I believe that the lean methodology is a valid approach for every discipline of your company, but- in order to get a good
+results you need to plan your experiment and to have a positive benchmarks that proves that you doing right.
+
+What do you think?

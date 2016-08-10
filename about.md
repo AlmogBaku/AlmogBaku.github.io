@@ -7,8 +7,8 @@ permalink: /about/
 ![Almog Baku]({{ site.github.url }}/images/almog-baku-nice-pic.jpg)
 
 Hey there!
-My name is Almog Baku; I am an entrepreneur, leader, and developer with 9 years of experience. Expert in
-[AngularJS](https://angularjs.org), [Symfony](https://symfony.com) and in getting things done.
+My name is Almog Baku; I am an entrepreneur, leader, and developer with more than 12 years of experience. Expert in
+[Go](https://www.golang.org) and in getting things done.
 
 On this blog I'll write about entrepreneurship and development.
 

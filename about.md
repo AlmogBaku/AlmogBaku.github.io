@@ -34,7 +34,7 @@ and of course- started to making money by using my skills.
 
 ### Highlights
 
- - Co-Founder and CTO of [rRimoto](http://www.rimoto.net)
+ - Co-Founder and CTO of [Rimoto](http://www.rimoto.net)
  - Co-Founder and CEO of SocialBelong (formerly GoDisco)
  - Creator of some popular [open-source projects](http://github.com/AlmogBaku)
 

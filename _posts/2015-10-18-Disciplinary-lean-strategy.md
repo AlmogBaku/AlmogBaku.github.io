@@ -18,7 +18,7 @@ establish/disapprove your assumptions much faster (and wast less time and money)
  
 ## Company lean strategy
 One of the most important things you *MUST* do, is to build a Company-Level strategy. In my opinion- on early stages the
-wise approach is to plan a very **focused** strategy for your whole company, and drip it from
+wise approach is to plan a very **focused** strategy for your whole company, and propagate it from
 [top to down](https://en.wikipedia.org/wiki/Top-down_and_bottom-up_design) to all the other departments of the company.
 
 The idea is to focus the team on the goals, in order to achieve the make the most of the time, without wasting any time

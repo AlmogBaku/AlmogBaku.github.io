@@ -1,0 +1,5 @@
+- Kubernetes / Ingress
+- Go realtime IPC
+- Stateless tokens with JWT / Bear data over token
+- Why go is awesome
+- Developers cheats (or why community is so important: go community, irc)

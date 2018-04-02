@@ -19,12 +19,12 @@ mainly because I was lacking a clear strategy.
 
 1. **You can't ask for too many favors** - you can only ask for one or two favours in a while; more than that and people
 might start to ignore you.
-2. **Your success too depends on luck**
+2. **Your success depends on luck**
 3. **You don't really know who can help you**
-4. **You losing patient, and start cold mailing** - TL;DR: cold mails are bad unless you are a well-known personality.
+4. **You losing patient, and start cold mailing** - TL;DR: cold mails are usually a bad idea, unless you are a celeb or something.
 
 ## Planning your strategy
-Planning your strategy can help you to gather more control over your process, and to create meaningful introductions.
+Planning your strategy can help you to gather more control over the process, and create meaningful introductions.
 
 When I started to write this blog post, I first mapped my connections in order to realize how I should act:
 
@@ -48,13 +48,13 @@ Generally, there are two strategies I use that can help us here:
 
 ### Intros by contacts
 Just contact your good-friends(2) and ask them who can they connect you with.
-### Finding intros to investor
+### Finding intros to an investor
 List all of the potential investors that may interest in your opportunity, whether you know them or not, then narrow down the people
 that can introduce you to them(friends levels 2 or 1).
 After you list all the possible connections you'll need from a specific contact- approach him.
 
-&lowast; Don't waste your time on getting intros with people who'll probably not invest in your company (not in your field, etc.). <br />
-&lowast; You can probably ask for only one favor from a friend in level 1, so ask it once for all the intros, and avoid splitting
+&lowast; Don't waste your time on getting intros to investors who probably won't invest in your company (not in your field, etc.). <br />
+&lowast; You can probably ask for only a one favor from a friend on level 1, so ask it once for all the intros, and avoid splitting
    your requests.
 
 ## How to build your plan
@@ -77,6 +77,7 @@ your goal, and to get the relevant introductions.
 
 <img src="http://www.almogbaku.com/images/actionable-connections-report.png"
    alt="Actionable connections" style="border:2px solid;padding: 1rem;" />
+   (lol, typos!)
 
 #### [Click here to try Actionable connections](http://actionable-connections.almogbaku.com)
 <br />
